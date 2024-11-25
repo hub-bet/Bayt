@@ -1,0 +1,17 @@
+*{
+	text-align:center;
+}
+body{
+	background-color:#87CEEB;
+	margin:100px;
+	font-family:"Times new Roman", verdana, sans serif;
+	font-size:2em;
+	border-style:solid;
+	padding:40px;
+	
+}
+P{
+	flex-basis: 100%;
+	color: chocolate;
+	box-shadow: hotpink;
+}
